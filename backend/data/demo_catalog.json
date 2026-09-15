@@ -1,0 +1,53 @@
+{
+  "summary": "StyleHub offers clothing and fashion for Men and Women across dresses, tops, jeans, and more.",
+  "departments": {
+    "Women": {
+      "url": "https://stylehub.demo/women",
+      "categories": [
+        {
+          "name": "Dresses",
+          "url": "https://stylehub.demo/women/dresses"
+        },
+        {
+          "name": "Tops and T-Shirts",
+          "url": "https://stylehub.demo/women/tops"
+        },
+        {
+          "name": "Jeans",
+          "url": "https://stylehub.demo/women/jeans"
+        },
+        {
+          "name": "Coats and Jackets",
+          "url": "https://stylehub.demo/women/coats"
+        }
+      ]
+    },
+    "Men": {
+      "url": "https://stylehub.demo/men",
+      "categories": [
+        {
+          "name": "Shirts",
+          "url": "https://stylehub.demo/men/shirts"
+        },
+        {
+          "name": "Trousers",
+          "url": "https://stylehub.demo/men/trousers"
+        },
+        {
+          "name": "Hoodies",
+          "url": "https://stylehub.demo/men/hoodies"
+        },
+        {
+          "name": "Jeans",
+          "url": "https://stylehub.demo/men/jeans"
+        }
+      ]
+    }
+  },
+  "links": {
+    "home": "https://stylehub.demo/",
+    "shipping": "https://stylehub.demo/shipping",
+    "returns": "https://stylehub.demo/returns",
+    "contact": "https://stylehub.demo/contact"
+  }
+}

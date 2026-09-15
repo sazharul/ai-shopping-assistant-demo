@@ -1,0 +1,235 @@
+[
+  {
+    "id": "ship_001",
+    "category": "shipping",
+    "action_type": "static_faq",
+    "question": "How long does delivery take?",
+    "answer": "Standard UK delivery takes 3-5 business days. Express delivery (1-2 days) is available at checkout.",
+    "keywords": [
+      "delivery",
+      "shipping",
+      "how long"
+    ],
+    "embedding_text": "UK standard delivery 3-5 business days express 1-2 days",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "ship_002",
+    "category": "shipping",
+    "action_type": "static_faq",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, free standard shipping on orders over \u00a350 within the UK.",
+    "keywords": [
+      "free shipping",
+      "delivery cost"
+    ],
+    "embedding_text": "Free shipping orders over 50 pounds UK",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "ret_001",
+    "category": "returns",
+    "action_type": "static_faq",
+    "question": "What is your return policy?",
+    "answer": "You can return unworn items within 30 days of delivery for a full refund. Items must have original tags attached.",
+    "keywords": [
+      "return",
+      "refund",
+      "policy"
+    ],
+    "embedding_text": "30 day return policy unworn items tags attached full refund",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "ret_002",
+    "category": "returns",
+    "action_type": "static_faq",
+    "question": "How do I start a return?",
+    "answer": "Log into your account, go to Order History, select the order, and click 'Request Return'. You'll receive a prepaid label by email.",
+    "keywords": [
+      "start return",
+      "return label"
+    ],
+    "embedding_text": "Start return from order history prepaid label email",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "size_001",
+    "category": "sizing",
+    "action_type": "static_faq",
+    "question": "How do I find my size?",
+    "answer": "Each product page has a Size Guide link. We use standard UK sizing for women and men.",
+    "keywords": [
+      "size guide",
+      "sizing",
+      "fit"
+    ],
+    "embedding_text": "Size guide on product page UK sizing women men",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "pay_001",
+    "category": "payments",
+    "action_type": "static_faq",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay.",
+    "keywords": [
+      "payment",
+      "card",
+      "paypal"
+    ],
+    "embedding_text": "Payment methods visa mastercard amex paypal apple pay",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "acc_001",
+    "category": "accounts",
+    "action_type": "static_faq",
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up on the homepage, enter your email and password, and verify your email address.",
+    "keywords": [
+      "account",
+      "sign up",
+      "register"
+    ],
+    "embedding_text": "Create account sign up email password verify",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "ord_001",
+    "category": "orders",
+    "action_type": "static_faq",
+    "question": "How can I track my order?",
+    "answer": "Once shipped, you'll receive a tracking email with a link. You can also track from your account Order History.",
+    "keywords": [
+      "track order",
+      "tracking"
+    ],
+    "embedding_text": "Track order tracking email order history account",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "ord_002",
+    "category": "orders",
+    "action_type": "static_faq",
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled within 1 hour of placement if not yet dispatched. Contact support or use your account dashboard.",
+    "keywords": [
+      "cancel order"
+    ],
+    "embedding_text": "Cancel order within one hour not dispatched",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "disc_001",
+    "category": "discounts",
+    "action_type": "static_faq",
+    "question": "How do I use a discount code?",
+    "answer": "Enter your code in the 'Promo Code' field at checkout before payment. One code per order.",
+    "keywords": [
+      "discount",
+      "promo code",
+      "coupon"
+    ],
+    "embedding_text": "Discount promo code checkout one per order",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "care_001",
+    "category": "product_care",
+    "action_type": "static_faq",
+    "question": "How should I wash my clothes?",
+    "answer": "Check the care label on each garment. Most cotton items: machine wash 30\u00b0C, do not tumble dry unless stated.",
+    "keywords": [
+      "wash",
+      "care",
+      "laundry"
+    ],
+    "embedding_text": "Care label machine wash 30 degrees cotton",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "intl_001",
+    "category": "shipping",
+    "action_type": "static_faq",
+    "question": "Do you ship internationally?",
+    "answer": "We currently ship to the UK and selected EU countries. Delivery times vary by destination.",
+    "keywords": [
+      "international",
+      "EU",
+      "abroad"
+    ],
+    "embedding_text": "International shipping UK EU countries",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "gift_001",
+    "category": "gifts",
+    "action_type": "static_faq",
+    "question": "Do you offer gift wrapping?",
+    "answer": "Gift wrapping is available at checkout for \u00a33.95. You can add a personal message on the packing slip.",
+    "keywords": [
+      "gift wrap",
+      "present"
+    ],
+    "embedding_text": "Gift wrapping checkout personal message",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "stock_001",
+    "category": "products",
+    "action_type": "static_faq",
+    "question": "An item is out of stock \u2014 will it come back?",
+    "answer": "Popular items are restocked regularly. Sign up for back-in-stock alerts on the product page.",
+    "keywords": [
+      "out of stock",
+      "restock"
+    ],
+    "embedding_text": "Out of stock restock alerts product page",
+    "metadata": {
+      "source": "demo"
+    }
+  },
+  {
+    "id": "cont_001",
+    "category": "contact",
+    "action_type": "static_faq",
+    "question": "How do I contact customer support?",
+    "answer": "Email support@stylehub.demo or use the chat assistant. We respond within 24 hours on business days.",
+    "keywords": [
+      "contact",
+      "support",
+      "help"
+    ],
+    "embedding_text": "Contact customer support email chat 24 hours",
+    "metadata": {
+      "source": "demo"
+    }
+  }
+]

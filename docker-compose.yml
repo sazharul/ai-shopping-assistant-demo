@@ -1,0 +1,30 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8001:8001"
+    environment:
+      DEMO_MODE: "true"
+      DEBUG_MODE: "true"
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      FAQ_DATA_PATH: data/demo_faq.json
+      PRODUCT_DATA_PATH: data/demo_products.json
+      ADMIN_DEFAULT_EMAIL: admin@stylehub.demo
+      ADMIN_DEFAULT_PASSWORD: DemoAdmin123!
+    volumes:
+      - ./backend:/app
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_BASE_URL: http://localhost:8001/api/v1
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - frontend_node_modules:/app/node_modules
+
+volumes:
+  frontend_node_modules:

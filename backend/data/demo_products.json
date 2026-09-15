@@ -1,0 +1,694 @@
+[
+  {
+    "product_id": "SH001",
+    "product_name": "Classic Blue Denim Jacket",
+    "product_url": "https://stylehub.demo/style/women/sh001",
+    "product_image": "product-01.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Coats and Jackets",
+    "category_url": "https://stylehub.demo/c/women/coats-and-jackets",
+    "brand": "StyleHub",
+    "price": 59.99,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.4,
+    "total_reviews": 13,
+    "attributes": {
+      "colors": [
+        "Blue",
+        "Navy"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Classic Blue Denim Jacket by StyleHub. Women Coats and Jackets. Colors: Blue, Navy. Sizes: 8, 10, 12, 14. Price \u00a359.99."
+  },
+  {
+    "product_id": "SH002",
+    "product_name": "Floral Midi Dress",
+    "product_url": "https://stylehub.demo/style/women/sh002",
+    "product_image": "product-02.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Dresses",
+    "category_url": "https://stylehub.demo/c/women/dresses",
+    "brand": "StyleHub",
+    "price": 45.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.6000000000000005,
+    "total_reviews": 16,
+    "attributes": {
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Floral Midi Dress by StyleHub. Women Dresses. Colors: Pink, White. Sizes: 8, 10, 12. Price \u00a345.0."
+  },
+  {
+    "product_id": "SH003",
+    "product_name": "Ribbed Cotton T-Shirt",
+    "product_url": "https://stylehub.demo/style/women/sh003",
+    "product_image": "product-03.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Tops and T-Shirts",
+    "category_url": "https://stylehub.demo/c/women/tops-and-t-shirts",
+    "brand": "StyleHub",
+    "price": 18.99,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.2,
+    "total_reviews": 19,
+    "attributes": {
+      "colors": [
+        "Black",
+        "White",
+        "Grey"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Ribbed Cotton T-Shirt by StyleHub. Women Tops and T-Shirts. Colors: Black, White, Grey. Sizes: 8, 10, 12, 14, 16. Price \u00a318.99."
+  },
+  {
+    "product_id": "SH004",
+    "product_name": "High-Waist Skinny Jeans",
+    "product_url": "https://stylehub.demo/style/women/sh004",
+    "product_image": "product-04.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Jeans",
+    "category_url": "https://stylehub.demo/c/women/jeans",
+    "brand": "StyleHub",
+    "price": 39.99,
+    "currency": "GBP",
+    "discount_price": 31.99,
+    "discount_percent": 20,
+    "has_discount": true,
+    "in_stock": true,
+    "rating": 4.4,
+    "total_reviews": 22,
+    "attributes": {
+      "colors": [
+        "Indigo",
+        "Black"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "High-Waist Skinny Jeans by StyleHub. Women Jeans. Colors: Indigo, Black. Sizes: 8, 10, 12, 14. Price \u00a339.99."
+  },
+  {
+    "product_id": "SH005",
+    "product_name": "Wool Blend Coat",
+    "product_url": "https://stylehub.demo/style/women/sh005",
+    "product_image": "product-05.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Coats and Jackets",
+    "category_url": "https://stylehub.demo/c/women/coats-and-jackets",
+    "brand": "StyleHub",
+    "price": 89.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.6000000000000005,
+    "total_reviews": 25,
+    "attributes": {
+      "colors": [
+        "Camel",
+        "Black"
+      ],
+      "sizes": [
+        "10",
+        "12",
+        "14"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Wool Blend Coat by StyleHub. Women Coats and Jackets. Colors: Camel, Black. Sizes: 10, 12, 14. Price \u00a389.0."
+  },
+  {
+    "product_id": "SH006",
+    "product_name": "Silk Blouse",
+    "product_url": "https://stylehub.demo/style/women/sh006",
+    "product_image": "product-06.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Tops and T-Shirts",
+    "category_url": "https://stylehub.demo/c/women/tops-and-t-shirts",
+    "brand": "StyleHub",
+    "price": 34.5,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.2,
+    "total_reviews": 28,
+    "attributes": {
+      "colors": [
+        "Cream",
+        "Burgundy"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Silk Blouse by StyleHub. Women Tops and T-Shirts. Colors: Cream, Burgundy. Sizes: 8, 10, 12. Price \u00a334.5."
+  },
+  {
+    "product_id": "SH007",
+    "product_name": "Pleated A-Line Skirt",
+    "product_url": "https://stylehub.demo/style/women/sh007",
+    "product_image": "product-07.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Dresses",
+    "category_url": "https://stylehub.demo/c/women/dresses",
+    "brand": "StyleHub",
+    "price": 29.99,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.4,
+    "total_reviews": 31,
+    "attributes": {
+      "colors": [
+        "Navy",
+        "Green"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Pleated A-Line Skirt by StyleHub. Women Dresses. Colors: Navy, Green. Sizes: 8, 10, 12. Price \u00a329.99."
+  },
+  {
+    "product_id": "SH008",
+    "product_name": "Linen Summer Dress",
+    "product_url": "https://stylehub.demo/style/women/sh008",
+    "product_image": "product-08.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Dresses",
+    "category_url": "https://stylehub.demo/c/women/dresses",
+    "brand": "StyleHub",
+    "price": 52.0,
+    "currency": "GBP",
+    "discount_price": 41.6,
+    "discount_percent": 20,
+    "has_discount": true,
+    "in_stock": true,
+    "rating": 4.6000000000000005,
+    "total_reviews": 34,
+    "attributes": {
+      "colors": [
+        "White",
+        "Sky Blue"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Linen Summer Dress by StyleHub. Women Dresses. Colors: White, Sky Blue. Sizes: 8, 10, 12, 14. Price \u00a352.0."
+  },
+  {
+    "product_id": "SH009",
+    "product_name": "Oxford Cotton Shirt",
+    "product_url": "https://stylehub.demo/style/men/sh009",
+    "product_image": "product-09.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Shirts",
+    "category_url": "https://stylehub.demo/c/men/shirts",
+    "brand": "StyleHub",
+    "price": 42.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.2,
+    "total_reviews": 37,
+    "attributes": {
+      "colors": [
+        "White",
+        "Light Blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Oxford Cotton Shirt by StyleHub. Men Shirts. Colors: White, Light Blue. Sizes: S, M, L, XL. Price \u00a342.0."
+  },
+  {
+    "product_id": "SH010",
+    "product_name": "Slim Fit Chinos",
+    "product_url": "https://stylehub.demo/style/men/sh010",
+    "product_image": "product-10.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Trousers",
+    "category_url": "https://stylehub.demo/c/men/trousers",
+    "brand": "StyleHub",
+    "price": 38.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.4,
+    "total_reviews": 40,
+    "attributes": {
+      "colors": [
+        "Khaki",
+        "Navy"
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Slim Fit Chinos by StyleHub. Men Trousers. Colors: Khaki, Navy. Sizes: 30, 32, 34, 36. Price \u00a338.0."
+  },
+  {
+    "product_id": "SH011",
+    "product_name": "Zip-Up Hoodie",
+    "product_url": "https://stylehub.demo/style/men/sh011",
+    "product_image": "product-11.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Hoodies",
+    "category_url": "https://stylehub.demo/c/men/hoodies",
+    "brand": "StyleHub",
+    "price": 49.99,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.6000000000000005,
+    "total_reviews": 43,
+    "attributes": {
+      "colors": [
+        "Grey",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Zip-Up Hoodie by StyleHub. Men Hoodies. Colors: Grey, Black. Sizes: S, M, L, XL. Price \u00a349.99."
+  },
+  {
+    "product_id": "SH012",
+    "product_name": "Straight Leg Jeans",
+    "product_url": "https://stylehub.demo/style/men/sh012",
+    "product_image": "product-12.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Jeans",
+    "category_url": "https://stylehub.demo/c/men/jeans",
+    "brand": "StyleHub",
+    "price": 44.99,
+    "currency": "GBP",
+    "discount_price": 35.99,
+    "discount_percent": 20,
+    "has_discount": true,
+    "in_stock": true,
+    "rating": 4.2,
+    "total_reviews": 46,
+    "attributes": {
+      "colors": [
+        "Dark Wash",
+        "Light Wash"
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Straight Leg Jeans by StyleHub. Men Jeans. Colors: Dark Wash, Light Wash. Sizes: 30, 32, 34. Price \u00a344.99."
+  },
+  {
+    "product_id": "SH013",
+    "product_name": "Merino Crew Neck Jumper",
+    "product_url": "https://stylehub.demo/style/men/sh013",
+    "product_image": "product-13.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Shirts",
+    "category_url": "https://stylehub.demo/c/men/shirts",
+    "brand": "StyleHub",
+    "price": 55.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.4,
+    "total_reviews": 49,
+    "attributes": {
+      "colors": [
+        "Charcoal",
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Merino Crew Neck Jumper by StyleHub. Men Shirts. Colors: Charcoal, Navy. Sizes: S, M, L. Price \u00a355.0."
+  },
+  {
+    "product_id": "SH014",
+    "product_name": "Performance Running Tee",
+    "product_url": "https://stylehub.demo/style/men/sh014",
+    "product_image": "product-14.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Shirts",
+    "category_url": "https://stylehub.demo/c/men/shirts",
+    "brand": "StyleHub",
+    "price": 22.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.6000000000000005,
+    "total_reviews": 52,
+    "attributes": {
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Performance Running Tee by StyleHub. Men Shirts. Colors: Black, Red. Sizes: S, M, L, XL. Price \u00a322.0."
+  },
+  {
+    "product_id": "SH015",
+    "product_name": "Waterproof Parka",
+    "product_url": "https://stylehub.demo/style/men/sh015",
+    "product_image": "product-15.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Hoodies",
+    "category_url": "https://stylehub.demo/c/men/hoodies",
+    "brand": "StyleHub",
+    "price": 95.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.2,
+    "total_reviews": 55,
+    "attributes": {
+      "colors": [
+        "Olive",
+        "Black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Waterproof Parka by StyleHub. Men Hoodies. Colors: Olive, Black. Sizes: M, L, XL. Price \u00a395.0."
+  },
+  {
+    "product_id": "SH016",
+    "product_name": "Wrap Front Maxi Dress",
+    "product_url": "https://stylehub.demo/style/women/sh016",
+    "product_image": "product-16.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Dresses",
+    "category_url": "https://stylehub.demo/c/women/dresses",
+    "brand": "StyleHub",
+    "price": 68.0,
+    "currency": "GBP",
+    "discount_price": 54.4,
+    "discount_percent": 20,
+    "has_discount": true,
+    "in_stock": true,
+    "rating": 4.4,
+    "total_reviews": 58,
+    "attributes": {
+      "colors": [
+        "Emerald",
+        "Black"
+      ],
+      "sizes": [
+        "8",
+        "10",
+        "12"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Wrap Front Maxi Dress by StyleHub. Women Dresses. Colors: Emerald, Black. Sizes: 8, 10, 12. Price \u00a368.0."
+  },
+  {
+    "product_id": "SH017",
+    "product_name": "Cargo Trousers",
+    "product_url": "https://stylehub.demo/style/men/sh017",
+    "product_image": "product-17.svg",
+    "department": "Men",
+    "department_url": "https://stylehub.demo/men",
+    "category": "Trousers",
+    "category_url": "https://stylehub.demo/c/men/trousers",
+    "brand": "StyleHub",
+    "price": 36.5,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.6000000000000005,
+    "total_reviews": 61,
+    "attributes": {
+      "colors": [
+        "Stone",
+        "Black"
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Cargo Trousers by StyleHub. Men Trousers. Colors: Stone, Black. Sizes: 30, 32, 34. Price \u00a336.5."
+  },
+  {
+    "product_id": "SH018",
+    "product_name": "Cashmere Blend Scarf",
+    "product_url": "https://stylehub.demo/style/women/sh018",
+    "product_image": "product-18.svg",
+    "department": "Women",
+    "department_url": "https://stylehub.demo/women",
+    "category": "Tops and T-Shirts",
+    "category_url": "https://stylehub.demo/c/women/tops-and-t-shirts",
+    "brand": "StyleHub",
+    "price": 28.0,
+    "currency": "GBP",
+    "discount_price": null,
+    "discount_percent": null,
+    "has_discount": false,
+    "in_stock": true,
+    "rating": 4.2,
+    "total_reviews": 64,
+    "attributes": {
+      "colors": [
+        "Grey",
+        "Camel"
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "fabric": "Cotton blend",
+      "fit": "Regular fit",
+      "season": "All season",
+      "occasion": [
+        "Casual",
+        "Everyday"
+      ]
+    },
+    "rag_text_blob": "Cashmere Blend Scarf by StyleHub. Women Tops and T-Shirts. Colors: Grey, Camel. Sizes: One Size. Price \u00a328.0."
+  }
+]

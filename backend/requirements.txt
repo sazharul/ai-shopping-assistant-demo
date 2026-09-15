@@ -1,0 +1,52 @@
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+websockets>=12.0
+
+# LangChain + LangGraph
+langchain==0.3.0
+langchain-openai==0.2.0
+langchain-community==0.3.0
+langgraph==0.2.60
+langsmith>=0.1.126,<0.2.0
+
+# Memory
+langgraph-checkpoint-sqlite==2.0.11
+aiosqlite==0.21.0
+
+# Vector store
+faiss-cpu==1.8.0
+
+# BM25
+rank-bm25==0.2.2
+
+# HTTP client (used by tools)
+requests>=2.31.0
+
+# Settings
+pydantic==2.9.0
+pydantic-settings==2.5.2
+
+PyJWT==2.9.0
+bcrypt==4.2.0
+
+# Environment
+python-dotenv==1.0.1
+
+
+
+
+# CLIP------------------------------
+
+# CLIP model loader (Hugging Face)
+transformers==4.40.0
+
+# PyTorch — CPU only (lighter, sufficient for inference)
+# If your server already has torch installed, skip this line
+torch==2.2.2
+torchvision==0.17.2
+
+# Image processing
+Pillow==10.3.0
+numpy==1.26.4
+python-multipart==0.0.32

@@ -1,0 +1,36 @@
+# Environment
+.env
+.env.local
+.env.production
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Runtime data
+backend/data/faiss_index/
+backend/data/product_faiss_index/
+backend/data/product_image_index.faiss
+backend/data/product_image_index_ids.pkl
+backend/data/*.db
+backend/data/chat_uploads/
+backend/logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local settings
+**/.claude/
